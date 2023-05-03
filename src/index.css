@@ -9,7 +9,12 @@
 body {
   font-family: 'Poppins', sans-serif;
   height: 100vh;
+  /* background-image: url(././Icons/2x/setting.png); */
+  background-repeat: no-repeat;
+
 }
+
+
 
 a {
   text-decoration: none;

@@ -7,7 +7,7 @@ function Login() {
         password: ''
 
 })
-// const { email, password } = formdata;
+const { email, password } = formdata;
 
 const onChange = (e) => {
     setFormData((prevState) =>({
